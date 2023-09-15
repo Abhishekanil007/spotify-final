@@ -289,10 +289,6 @@ a{
 .volume-slider:hover {
   background-color: #1bd760;
 }
-.timeline-slider,
-.volume-slider {
-  -webkit-appearance: none;
-}
 
 .timeline-slider::-webkit-slider-runnable-track,
 .volume-slider::-webkit-slider-runnable-track {
